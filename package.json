@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtai040805/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "nodejs"
+  ],
+  "author": "taiphan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhtai040805/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/thanhtai040805/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
